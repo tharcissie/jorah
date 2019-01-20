@@ -1,0 +1,21 @@
+
+*{
+    font-family: 'Playfair Display', serif;
+}
+.jumbotron{
+    background-image:url(m.jpg); 
+    background-position: 25% 50%;
+    background-size: cover;
+background-repeat: repeat;
+color: white;
+}
+.fa{
+    color: white;
+    background:red;
+    font-weight: 1cm;
+   
+  
+}
+ul{
+    list-style-type: none!important;
+}
